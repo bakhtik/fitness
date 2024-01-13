@@ -20,8 +20,8 @@
 
 ## [Jump Rope challenge](https://darebee.com/challenges/jump-rope-challenge.html)
 
-- [ ] **0.5 min** skips | *3 sets* | **1min** rest
+- [ ] **0.5 min** skips / *3 sets* / **1min** rest
 - [ ] **2min** in total *throughout the day*
 - [ ] **1min** skips *non-stop*
-- [ ] **0.5 min** skips | *3 sets* | **1min** rest
+- [ ] **0.5 min** skips / *3 sets* / **1min** rest
 - [ ] **200 skips** *in one workout*
