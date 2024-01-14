@@ -12,11 +12,11 @@
 
 ## Push-ups tracker
 
-- [x] 2 4 2 2 8
 - [x] rest
 - [x] 3 5 3 3 3+
 - [ ] rest
 - [ ] 4 6 4 4 4+
+- [ ] rest
 
 ## Inverted rows tracker
 
