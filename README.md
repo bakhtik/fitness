@@ -12,19 +12,19 @@
 
 ## Push-ups tracker
 
-- [x] rest
-- [x] 3 5 3 3 3+
-- [x] rest
-- [x] 4 6 4 4 4+
-- [x] rest
+- [ ] 5 7 5 5 5+
+- [ ] rest
+- [ ] rest
+- [ ] rest
+- [ ] 5 7 5 5 5+
 
 ## Inverted rows tracker
 
-- [x] 1 2 1 1 2
-- [x] rest
-- [x] rest
-- [x] rest
-- [x] 1 2 1 1 1+
+- [ ] rest
+- [ ] 1 2 1 1 2+
+- [ ] rest
+- [ ] rest
+- [ ] rest
 
 ## [Jump Rope challenge](https://darebee.com/challenges/jump-rope-challenge.html)
 
