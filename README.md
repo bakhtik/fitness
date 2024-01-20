@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
-|	✅	|	✅	|	✅	|	✅	|	✅	|	[20](https://darebee.com/programs/foundation-program.html?showall=&start=19)	|	21	|
+|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	[21](https://darebee.com/programs/foundation-program.html?showall=&start=19)	|
 |	22	|	23	|	24	|	25	|	26	|	27	|	28	|
 |	29	|	30	|	31	|		|		|		|		|
 
@@ -14,14 +14,14 @@
 
 - [x] 5 7 5 5 5+
 - [x] rest
-- [ ] 4 6 4 4 4+
+- [x] 4 6 4 4 4+
 - [ ] rest
 - [ ] 5 7 5 5 5+
 
 ## [Jump Rope challenge](https://darebee.com/challenges/jump-rope-challenge.html)
 
 - [x] **30sec** skips / *3 sets* / **1min** rest
-- [ ] **30sec** skips / *1 set* / **1min** rest
+- [x] **30sec** skips / *1 set*
 - [ ] rest
 - [ ] **40sec** skips / *3 sets* / **1min** rest
 - [ ] **2min** in total *throughout the day*
