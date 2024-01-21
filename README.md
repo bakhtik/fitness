@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
-|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	[21](https://darebee.com/programs/foundation-program.html?showall=&start=20)	|
-|	22	|	23	|	24	|	25	|	26	|	27	|	28	|
+|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
+|	[22](https://darebee.com/programs/foundation-program.html?showall=&start=21)	|	23	|	24	|	25	|	26	|	27	|	28	|
 |	29	|	30	|	31	|		|		|		|		|
 
 ✅❌
