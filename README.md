@@ -5,7 +5,7 @@
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
-|	✅	|	✅	|	[24](https://darebee.com/programs/foundation-program.html?showall=&start=23)	|	25	|	26	|	27	|	28	|
+|	✅	|	✅	|	✅	|	[25](https://darebee.com/programs/foundation-program.html?showall=&start=24)	|	26	|	27	|	28	|
 |	29	|	30	|	31	|		|		|		|		|
 
 ✅❌
