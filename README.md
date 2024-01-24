@@ -14,14 +14,14 @@
 
 - [x] 5 7 5 5 6
 - [x] rest
-- [ ] 5 7 5 5 5+
+- [x] 5 7 5 5 5
 - [ ] rest
 - [ ] 5 7 5 5 5+
 
 ## [Jump Rope challenge](https://darebee.com/challenges/jump-rope-challenge.html)
 
 - [x] **40sec** skips / *3 sets* / **1min** rest
-- [-] **2min** in total *throughout the day*
-- [ ] **1min** skips *non-stop*
-- [ ] **40sec** skips / *3 sets* / **1min** rest
-- [ ] **220 skips** *in one workout*
+- [x] rest
+- [x] **30sec** skips
+- [ ] **30sec** skips / *2 sets* / **1min** rest
+- [ ] **200 skips** *in one workout*
