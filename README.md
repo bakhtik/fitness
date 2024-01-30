@@ -1,27 +1,17 @@
-# Fitness in January
+# Fitness
 
 |	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
 |	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
-|	✅	|	✅	|	✅	|	✅	|	✅	|	[27](https://darebee.com/programs/foundation-program.html?showall=&start=26)	|	28	|
-|	29	|	30	|	31	|		|		|		|		|
+|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|	✅	|
+|	✅	|	[30](https://darebee.com/programs/foundation-program.html?showall=&start=29)	|	[31](https://darebee.com/programs/foundation-program.html?showall=&start=30)	|		|		|		|		|
 
-✅❌
-
-## Push-ups tracker
-
-- [x] 5 7 5 5 6
-- [x] rest
-- [x] 5 7 5 5 5
-- [x] rest
-- [x] 5 7 5 5 5+
-
-## [Jump Rope challenge](https://darebee.com/challenges/jump-rope-challenge.html)
-
-- [x] **40sec** skips / *3 sets* / **1min** rest
-- [x] rest
-- [x] **30sec** skips
-- [x] **30sec** skips / *2 sets* / **1min** rest
-- [x] **200 skips** *in one workout*
+|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|	Sun	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|	[1](https://darebee.com/programs/ironheart-program.html?showall=&start=1)	|	2	|	3	|	4	|
+|	5	|	6	|	7	|	8	|	9	|	10	|	11	|
+|	12	|	13	|	14	|	15	|	16	|	17	|	18	|
+|	19	|	20	|	21	|	22	|	23	|	24	|	25	|
+|	26	|	27	|	28	|		|		|		|		|
